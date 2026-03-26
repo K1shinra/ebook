@@ -7,13 +7,13 @@ const DownloadSection = () => {
       icon: Smartphone,
       platform: "Android",
       version: "APK Download",
-      href: "#",
+      href: "https://expo.dev/accounts/moonlord0803/projects/myApp/builds/0b6958e5-5049-425b-9c3d-fdf0590aaf76",
     },
     {
       icon: Monitor,
       platform: "Windows",
       version: "Desktop App",
-      href: "#",
+      href: "https://expo.dev/accounts/moonlord0803/projects/myApp/builds/0b6958e5-5049-425b-9c3d-fdf0590aaf76",
     },
   ];
 
